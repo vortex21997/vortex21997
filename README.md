@@ -40,7 +40,7 @@
   <a href="https://vortex21997.github.io"><img src="https://img.shields.io/badge/Blog-28C8E6?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <a href="https://www.instagram.com/vortex21997"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.threads.com/@vortex21997"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@vortex21997"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@vortex2199-x5o"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://blog.naver.com/vortexneo"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" /></a>
 </p>
 
