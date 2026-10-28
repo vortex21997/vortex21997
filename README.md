@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a143c,50:3b2a8c,100:0a3c5a&height=260&section=header&text=AI%20%C2%B7%20vortex21997&fontColor=28c8e6&fontSize=56&desc=AI%EB%A1%9C%20%EC%A7%84%ED%96%89%ED%95%A9%EB%8B%88%EB%8B%A4&descSize=20&descAlignY=72&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a143c,50:3b2a8c,100:0a3c5a&height=240&section=header&text=AI%20%C2%B7%20vortex21997&fontColor=28c8e6&fontSize=56&fontAlignY=38&desc=AI%EB%A1%9C%20%EC%A7%84%ED%96%89%ED%95%A9%EB%8B%88%EB%8B%A4&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=BE78FF&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+Every+line+here+is+built+with+AI;%E2%9A%99%EF%B8%8F+Agents+%C2%B7+Automation+%C2%B7+Shipping;%E2%9C%8D%EF%B8%8F+Writing+it+all+down+at+vortex21997.github.io" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=BE78FF&center=true&vCenter=true&width=720&lines=%F0%9F%A4%96+Every+line+here+is+built+with+AI;%E2%9A%99%EF%B8%8F+Agents+%C2%B7+Automation+%C2%B7+Shipping;%E2%9C%8D%EF%B8%8F+Writing+it+all+down+on+my+blog" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://vortex21997.github.io"><img src="https://img.shields.io/badge/Blog-vortex21997.github.io-28C8E6?style=flat-square&logo=githubpages&logoColor=white" /></a>
@@ -44,7 +44,8 @@ location: Korea
 
 ### ✍️ Latest blog posts
 
-<!-- BLOG-POST-LIST:START -->- [Claude Code를 제대로 쓰려면 알아야 할 네 가지](https://vortex21997.github.io/posts/claude-code-settings/) <sub>2026.10.26</sub>
+<!-- BLOG-POST-LIST:START -->
+- [Claude Code를 제대로 쓰려면 알아야 할 네 가지](https://vortex21997.github.io/posts/claude-code-settings/) <sub>2026.10.26</sub>
 - [깃허브 블로그에는 하루 발행 제한이 없다](https://vortex21997.github.io/posts/github-pages-limits/) <sub>2026.10.26</sub>
 - [Chirpy를 업그레이드 가능한 상태로 고치기](https://vortex21997.github.io/posts/chirpy-upgradable-customizing/) <sub>2026.10.26</sub>
 - [github.io는 &#39;도메인&#39; 속성으로 등록할 수 없다](https://vortex21997.github.io/posts/search-console-github-io/) <sub>2026.10.26</sub>
@@ -74,8 +75,6 @@ location: Korea
   <img src="https://raw.githubusercontent.com/vortex21997/vortex21997/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=vortex21997&theme=tokyonight&hide_border=true&background=1A143C&ring=BE78FF&fire=28C8E6&currStreakLabel=28C8E6" height="165" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vortex21997&bg_color=1a143c&color=be78ff&line=28c8e6&point=ffffff&area=true&area_color=3b2a8c&hide_border=true&radius=8" width="100%" />
 </div>
 
 ### 🔗 Connect
