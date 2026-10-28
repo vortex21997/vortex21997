@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [html-proofer가 &#39;Checking 0 internal links&#39;로 통과할 때](https://vortex21997.github.io/posts/htmlproofer-zero-links-locale/) <sub>2026.10.28</sub>
 - [Claude Code를 제대로 쓰려면 알아야 할 네 가지](https://vortex21997.github.io/posts/claude-code-settings/) <sub>2026.10.26</sub>
 - [깃허브 블로그에는 하루 발행 제한이 없다](https://vortex21997.github.io/posts/github-pages-limits/) <sub>2026.10.26</sub>
 - [Chirpy를 업그레이드 가능한 상태로 고치기](https://vortex21997.github.io/posts/chirpy-upgradable-customizing/) <sub>2026.10.26</sub>
-- [github.io는 &#39;도메인&#39; 속성으로 등록할 수 없다](https://vortex21997.github.io/posts/search-console-github-io/) <sub>2026.10.26</sub>
-- [CLAUDE.md와 AGENTS.md, 둘 다 둬야 하나](https://vortex21997.github.io/posts/claude-md-vs-agents-md/) <sub>2026.10.26</sub><!-- BLOG-POST-LIST:END -->
+- [github.io는 &#39;도메인&#39; 속성으로 등록할 수 없다](https://vortex21997.github.io/posts/search-console-github-io/) <sub>2026.10.26</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
