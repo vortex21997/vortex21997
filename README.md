@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jekyll 글이 빌드는 되는데 사이트에 없을 때: Skipping ... has a future date](https://vortex21997.github.io/posts/jekyll-future-date-skipped/) <sub>2026.10.30</sub>
 - [claude -p가 성공&lpar;exit 0&rpar;이라는데 파일이 없을 때](https://vortex21997.github.io/posts/claude-p-permission-denials/) <sub>2026.10.29</sub>
 - [html-proofer가 &#39;Checking 0 internal links&#39;로 통과할 때](https://vortex21997.github.io/posts/htmlproofer-zero-links-locale/) <sub>2026.10.28</sub>
 - [Claude Code를 제대로 쓰려면 알아야 할 네 가지](https://vortex21997.github.io/posts/claude-code-settings/) <sub>2026.10.26</sub>
-- [깃허브 블로그에는 하루 발행 제한이 없다](https://vortex21997.github.io/posts/github-pages-limits/) <sub>2026.10.26</sub>
-- [Chirpy를 업그레이드 가능한 상태로 고치기](https://vortex21997.github.io/posts/chirpy-upgradable-customizing/) <sub>2026.10.26</sub><!-- BLOG-POST-LIST:END -->
+- [깃허브 블로그에는 하루 발행 제한이 없다](https://vortex21997.github.io/posts/github-pages-limits/) <sub>2026.10.26</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
