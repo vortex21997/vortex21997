@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [0.1 + 0.2가 0.30000000000000004인 이유를 비트로 보기](https://vortex21997.github.io/posts/float-0-1-plus-0-2-bits/) <sub>2026.10.30</sub>
 - [1TB 하드가 931GB로 보이는 이유](https://vortex21997.github.io/posts/1tb-shows-931gb/) <sub>2026.10.30</sub>
 - [Jekyll 글이 빌드는 되는데 사이트에 없을 때: Skipping ... has a future date](https://vortex21997.github.io/posts/jekyll-future-date-skipped/) <sub>2026.10.30</sub>
 - [claude -p가 성공&lpar;exit 0&rpar;이라는데 파일이 없을 때](https://vortex21997.github.io/posts/claude-p-permission-denials/) <sub>2026.10.29</sub>
-- [html-proofer가 &#39;Checking 0 internal links&#39;로 통과할 때](https://vortex21997.github.io/posts/htmlproofer-zero-links-locale/) <sub>2026.10.28</sub>
-- [Claude Code를 제대로 쓰려면 알아야 할 네 가지](https://vortex21997.github.io/posts/claude-code-settings/) <sub>2026.10.26</sub><!-- BLOG-POST-LIST:END -->
+- [html-proofer가 &#39;Checking 0 internal links&#39;로 통과할 때](https://vortex21997.github.io/posts/htmlproofer-zero-links-locale/) <sub>2026.10.28</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
