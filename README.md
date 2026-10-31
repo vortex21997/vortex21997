@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [파일 확장자를 .png에서 .txt로 바꾸면 파일이 바뀌나](https://vortex21997.github.io/posts/rename-extension-changes-file/) <sub>2026.10.31</sub>
 - [git add 때 &#39;LF will be replaced by CRLF the next time Git touches it&#39;가 뜰 때](https://vortex21997.github.io/posts/git-lf-replaced-by-crlf-warning/) <sub>2026.10.31</sub>
 - [0.1 + 0.2가 0.30000000000000004인 이유를 비트로 보기](https://vortex21997.github.io/posts/float-0-1-plus-0-2-bits/) <sub>2026.10.30</sub>
 - [1TB 하드가 931GB로 보이는 이유](https://vortex21997.github.io/posts/1tb-shows-931gb/) <sub>2026.10.30</sub>
-- [Jekyll 글이 빌드는 되는데 사이트에 없을 때: Skipping ... has a future date](https://vortex21997.github.io/posts/jekyll-future-date-skipped/) <sub>2026.10.30</sub>
-- [claude -p가 성공&lpar;exit 0&rpar;이라는데 파일이 없을 때](https://vortex21997.github.io/posts/claude-p-permission-denials/) <sub>2026.10.29</sub><!-- BLOG-POST-LIST:END -->
+- [Jekyll 글이 빌드는 되는데 사이트에 없을 때: Skipping ... has a future date](https://vortex21997.github.io/posts/jekyll-future-date-skipped/) <sub>2026.10.30</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
