@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [메모리 사용량이 90%로 뜨는데 정말 부족한 걸까: 캐시와 &#39;사용 가능&#39; 메모리](https://vortex21997.github.io/posts/memory-free-low-but-fine/) <sub>2026.11.02</sub>
 - [claude --continue 했는데 이전 대화가 없을 때: 세션은 디렉터리별로 저장된다](https://vortex21997.github.io/posts/claude-continue-wrong-directory/) <sub>2026.11.02</sub>
 - [ps에 &lt;defunct&gt;로 뜨는 좀비 프로세스는 kill -9로도 안 죽는다](https://vortex21997.github.io/posts/zombie-defunct-kill-9/) <sub>2026.11.01</sub>
 - [사이트는 내 비밀번호를 그대로 저장할까: 해시와 솔트로 보기](https://vortex21997.github.io/posts/passwords-stored-as-hash/) <sub>2026.11.01</sub>
-- [블로그 첫 주, CLAUDE.md는 111줄에서 292줄이 됐다](https://vortex21997.github.io/posts/first-week-claudemd-growth/) <sub>2026.11.01</sub>
-- [인덱스를 만들었는데 EXPLAIN QUERY PLAN에 SCAN users가 뜰 때](https://vortex21997.github.io/posts/sqlite-index-not-used-like/) <sub>2026.10.31</sub><!-- BLOG-POST-LIST:END -->
+- [블로그 첫 주, CLAUDE.md는 111줄에서 292줄이 됐다](https://vortex21997.github.io/posts/first-week-claudemd-growth/) <sub>2026.11.01</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
