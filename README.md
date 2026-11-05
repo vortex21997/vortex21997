@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [내 컴퓨터 IP는 192.168.0.12인데 &#39;IP 확인&#39; 사이트에는 왜 다른 번호가 나올까](https://vortex21997.github.io/posts/private-vs-public-ip/) <sub>2026.11.05</sub>
 - [Codex에서 &#39;--ask-for-approval untrusted&#39;와 &#39;--full-auto&#39;가 invalid value로 막힐 때](https://vortex21997.github.io/posts/codex-untrusted-full-auto-removed/) <sub>2026.11.05</sub>
 - [큐를 list.pop&lpar;0&rpar;으로 만들면 왜 갑자기 느려질까: deque와 직접 재기](https://vortex21997.github.io/posts/python-list-pop0-vs-deque/) <sub>2026.11.04</sub>
 - [CPU 코어가 4개인데 프로그램은 왜 4배 빨라지지 않나](https://vortex21997.github.io/posts/cpu-cores-same-program-not-faster/) <sub>2026.11.04</sub>
-- [GitHub Actions 배포가 cancelled로 뜰 때: concurrency 때문인지 진짜 실패인지 가리기](https://vortex21997.github.io/posts/actions-run-cancelled-concurrency/) <sub>2026.11.04</sub>
-- [압축했는데 용량이 안 줄어드는 이유: 텍스트와 이미지를 gzip으로 비교하기](https://vortex21997.github.io/posts/zip-size-not-shrinking/) <sub>2026.11.03</sub><!-- BLOG-POST-LIST:END -->
+- [GitHub Actions 배포가 cancelled로 뜰 때: concurrency 때문인지 진짜 실패인지 가리기](https://vortex21997.github.io/posts/actions-run-cancelled-concurrency/) <sub>2026.11.04</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
