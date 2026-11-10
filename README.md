@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite &#39;database is locked&#39;가 뜰 때: 기다리다 실패한 건지, 기다리지도 않고 실패한 건지](https://vortex21997.github.io/posts/sqlite-database-is-locked-busy-timeout/) <sub>2026.11.10</sub>
 - [USB에 4GB 넘는 파일이 안 들어가는 이유: 빈 공간은 충분한데 &#39;too big&#39;](https://vortex21997.github.io/posts/usb-4gb-file-too-large-fat32/) <sub>2026.11.10</sub>
 - [코드 블록에 쓴 ${{ secrets.TOKEN }}이 글에서 $만 남을 때: Jekyll의 Liquid와 raw](https://vortex21997.github.io/posts/jekyll-liquid-code-block-raw/) <sub>2026.11.10</sub>
 - [int8에서 127 + 1이 -128이 되는 이유: 2의 보수를 비트로 보기](https://vortex21997.github.io/posts/int8-127-plus-1-minus-128/) <sub>2026.11.09</sub>
-- [파일 크기는 1바이트인데 &#39;디스크 할당 크기&#39;는 4KB로 나오는 이유](https://vortex21997.github.io/posts/file-size-vs-size-on-disk/) <sub>2026.11.09</sub>
-- [내 컴퓨터 IP는 192.168.0.12인데 &#39;IP 확인&#39; 사이트에는 왜 다른 번호가 나올까](https://vortex21997.github.io/posts/private-vs-public-ip/) <sub>2026.11.05</sub><!-- BLOG-POST-LIST:END -->
+- [파일 크기는 1바이트인데 &#39;디스크 할당 크기&#39;는 4KB로 나오는 이유](https://vortex21997.github.io/posts/file-size-vs-size-on-disk/) <sub>2026.11.09</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
