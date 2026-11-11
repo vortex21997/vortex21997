@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [파일을 지웠는데 df 용량이 그대로인 이유: 열려 있는 파일은 unlink로 안 사라진다](https://vortex21997.github.io/posts/deleted-file-space-not-freed-open-fd/) <sub>2026.11.11</sub>
 - [주소창 자물쇠가 있으면 안전한 사이트일까: 인증서가 보증하는 것과 안 하는 것](https://vortex21997.github.io/posts/https-lock-does-not-mean-safe-site/) <sub>2026.11.11</sub>
 - [푸시했는데 Actions 실행이 아예 안 생길 때: paths-ignore와 [skip ci] 가려내기](https://vortex21997.github.io/posts/actions-no-run-paths-ignore-skip-ci/) <sub>2026.11.11</sub>
 - [SQLite &#39;database is locked&#39;가 뜰 때: 기다리다 실패한 건지, 기다리지도 않고 실패한 건지](https://vortex21997.github.io/posts/sqlite-database-is-locked-busy-timeout/) <sub>2026.11.10</sub>
-- [USB에 4GB 넘는 파일이 안 들어가는 이유: 빈 공간은 충분한데 &#39;too big&#39;](https://vortex21997.github.io/posts/usb-4gb-file-too-large-fat32/) <sub>2026.11.10</sub>
-- [코드 블록에 쓴 ${{ secrets.TOKEN }}이 글에서 $만 남을 때: Jekyll의 Liquid와 raw](https://vortex21997.github.io/posts/jekyll-liquid-code-block-raw/) <sub>2026.11.10</sub><!-- BLOG-POST-LIST:END -->
+- [USB에 4GB 넘는 파일이 안 들어가는 이유: 빈 공간은 충분한데 &#39;too big&#39;](https://vortex21997.github.io/posts/usb-4gb-file-too-large-fat32/) <sub>2026.11.10</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
