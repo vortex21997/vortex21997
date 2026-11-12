@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [curl -L로 POST를 보냈는데 본문이 사라질 때: 301은 GET으로 바뀌고 308은 그대로 간다](https://vortex21997.github.io/posts/http-301-post-becomes-get-308/) <sub>2026.11.12</sub>
 - [원본을 지웠더니 바로가기가 안 열리는 이유: 심볼릭 링크와 하드 링크 비교](https://vortex21997.github.io/posts/symlink-broken-after-original-deleted/) <sub>2026.11.12</sub>
 - [Gemini CLI가 AGENTS.md를 안 읽을 때: context.fileName 설정](https://vortex21997.github.io/posts/gemini-cli-agents-md-context-filename/) <sub>2026.11.12</sub>
 - [파일을 지웠는데 df 용량이 그대로인 이유: 열려 있는 파일은 unlink로 안 사라진다](https://vortex21997.github.io/posts/deleted-file-space-not-freed-open-fd/) <sub>2026.11.11</sub>
-- [주소창 자물쇠가 있으면 안전한 사이트일까: 인증서가 보증하는 것과 안 하는 것](https://vortex21997.github.io/posts/https-lock-does-not-mean-safe-site/) <sub>2026.11.11</sub>
-- [푸시했는데 Actions 실행이 아예 안 생길 때: paths-ignore와 [skip ci] 가려내기](https://vortex21997.github.io/posts/actions-no-run-paths-ignore-skip-ci/) <sub>2026.11.11</sub><!-- BLOG-POST-LIST:END -->
+- [주소창 자물쇠가 있으면 안전한 사이트일까: 인증서가 보증하는 것과 안 하는 것](https://vortex21997.github.io/posts/https-lock-does-not-mean-safe-site/) <sub>2026.11.11</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
