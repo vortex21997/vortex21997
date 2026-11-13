@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1200만 화소 사진이 36MB가 아니라 2MB대인 이유: 화소 수로 계산한 크기와 실제 파일 크기](https://vortex21997.github.io/posts/photo-12mp-36mb-vs-3mb/) <sub>2026.11.13</sub>
 - [태그 106개 중 93개가 한 번뿐이었다: 점검 명령이 숫자를 하나 틀리게 센 이유](https://vortex21997.github.io/posts/tag-count-grep-counts-code-block/) <sub>2026.11.13</sub>
 - [curl -L로 POST를 보냈는데 본문이 사라질 때: 301은 GET으로 바뀌고 308은 그대로 간다](https://vortex21997.github.io/posts/http-301-post-becomes-get-308/) <sub>2026.11.12</sub>
 - [원본을 지웠더니 바로가기가 안 열리는 이유: 심볼릭 링크와 하드 링크 비교](https://vortex21997.github.io/posts/symlink-broken-after-original-deleted/) <sub>2026.11.12</sub>
-- [Gemini CLI가 AGENTS.md를 안 읽을 때: context.fileName 설정](https://vortex21997.github.io/posts/gemini-cli-agents-md-context-filename/) <sub>2026.11.12</sub>
-- [파일을 지웠는데 df 용량이 그대로인 이유: 열려 있는 파일은 unlink로 안 사라진다](https://vortex21997.github.io/posts/deleted-file-space-not-freed-open-fd/) <sub>2026.11.11</sub><!-- BLOG-POST-LIST:END -->
+- [Gemini CLI가 AGENTS.md를 안 읽을 때: context.fileName 설정](https://vortex21997.github.io/posts/gemini-cli-agents-md-context-filename/) <sub>2026.11.12</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
