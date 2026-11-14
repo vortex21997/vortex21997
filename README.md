@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [비밀번호는 특수문자를 섞는 것보다 길게 쓰는 게 나을까: 경우의 수를 직접 세기](https://vortex21997.github.io/posts/password-length-vs-special-characters/) <sub>2026.11.14</sub>
 - [git push가 &#39;fetch first&#39;로 거절되고 git pull은 &#39;divergent branches&#39;로 막힐 때](https://vortex21997.github.io/posts/git-pull-divergent-branches-fetch-first/) <sub>2026.11.14</sub>
 - [리스트의 in은 데이터가 늘수록 느려지는데 set의 in은 왜 안 느려질까: 해시로 직접 재기](https://vortex21997.github.io/posts/python-in-list-vs-set-hash/) <sub>2026.11.13</sub>
 - [1200만 화소 사진이 36MB가 아니라 2MB대인 이유: 화소 수로 계산한 크기와 실제 파일 크기](https://vortex21997.github.io/posts/photo-12mp-36mb-vs-3mb/) <sub>2026.11.13</sub>
-- [태그 106개 중 93개가 한 번뿐이었다: 점검 명령이 숫자를 하나 틀리게 센 이유](https://vortex21997.github.io/posts/tag-count-grep-counts-code-block/) <sub>2026.11.13</sub>
-- [curl -L로 POST를 보냈는데 본문이 사라질 때: 301은 GET으로 바뀌고 308은 그대로 간다](https://vortex21997.github.io/posts/http-301-post-becomes-get-308/) <sub>2026.11.12</sub><!-- BLOG-POST-LIST:END -->
+- [태그 106개 중 93개가 한 번뿐이었다: 점검 명령이 숫자를 하나 틀리게 센 이유](https://vortex21997.github.io/posts/tag-count-grep-counts-code-block/) <sub>2026.11.13</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
