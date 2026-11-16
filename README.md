@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [인터넷 500Mbps인데 다운로드는 왜 60MB/s 안팎일까: 비트와 바이트, 헤더 비용](https://vortex21997.github.io/posts/mbps-vs-mbs-download-speed/) <sub>2026.11.16</sub>
+- [PreToolUse 훅이 exit 1로 끝났는데 명령이 그냥 실행될 때: 막는 건 exit 2뿐이다](https://vortex21997.github.io/posts/claude-hook-exit-1-does-not-block/) <sub>2026.11.16</sub>
 - [INSERT 2000건이 1.5초, 한 트랜잭션이면 0.003초: SQLite 커밋마다 디스크를 기다리는 이유](https://vortex21997.github.io/posts/sqlite-commit-per-row-fsync/) <sub>2026.11.15</sub>
 - [같은 드라이브 안에서 파일을 옮기면 순식간인데 다른 드라이브로는 오래 걸리는 이유](https://vortex21997.github.io/posts/move-same-drive-instant-vs-copy/) <sub>2026.11.15</sub>
-- [슬롯 규칙을 넣고 2주, 카테고리 분포는 정말 퍼졌을까](https://vortex21997.github.io/posts/category-spread-after-slots/) <sub>2026.11.15</sub>
-- [0x12345678을 메모리에서 보면 78 56 34 12인 이유: 바이트 순서&lpar;엔디언&rpar;](https://vortex21997.github.io/posts/endianness-0x12345678-bytes/) <sub>2026.11.14</sub>
-- [비밀번호는 특수문자를 섞는 것보다 길게 쓰는 게 나을까: 경우의 수를 직접 세기](https://vortex21997.github.io/posts/password-length-vs-special-characters/) <sub>2026.11.14</sub><!-- BLOG-POST-LIST:END -->
+- [슬롯 규칙을 넣고 2주, 카테고리 분포는 정말 퍼졌을까](https://vortex21997.github.io/posts/category-spread-after-slots/) <sub>2026.11.15</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
