@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [curl이 &#39;Connection refused&#39;와 &#39;Timeout was reached&#39;로 갈리는 기준: RST가 오는가, 아무 응답이 없는가](https://vortex21997.github.io/posts/connection-refused-vs-timed-out/) <sub>2026.11.17</sub>
 - [인증 앱의 6자리 코드는 서버와 통신도 없이 어떻게 같은 숫자가 나오나](https://vortex21997.github.io/posts/otp-code-changes-every-30-seconds/) <sub>2026.11.17</sub>
 - [글을 고쳤는데 Chirpy에 &#39;업데이트&#39; 날짜가 안 뜰 때: 커밋 수와 fetch-depth](https://vortex21997.github.io/posts/chirpy-updated-date-not-shown-shallow-clone/) <sub>2026.11.17</sub>
 - [fork&lpar;&rpar;하면 200MB 메모리가 정말 복사될까: Copy-on-Write를 smaps로 보기](https://vortex21997.github.io/posts/fork-copy-on-write-smaps/) <sub>2026.11.16</sub>
-- [인터넷 500Mbps인데 다운로드는 왜 60MB/s 안팎일까: 비트와 바이트, 헤더 비용](https://vortex21997.github.io/posts/mbps-vs-mbs-download-speed/) <sub>2026.11.16</sub>
-- [PreToolUse 훅이 exit 1로 끝났는데 명령이 그냥 실행될 때: 막는 건 exit 2뿐이다](https://vortex21997.github.io/posts/claude-hook-exit-1-does-not-block/) <sub>2026.11.16</sub><!-- BLOG-POST-LIST:END -->
+- [인터넷 500Mbps인데 다운로드는 왜 60MB/s 안팎일까: 비트와 바이트, 헤더 비용](https://vortex21997.github.io/posts/mbps-vs-mbs-download-speed/) <sub>2026.11.16</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
