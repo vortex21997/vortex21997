@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [주소창에 IP 주소를 직접 넣으면 사이트가 안 열리는 이유: 한 IP에 사이트가 여러 개 산다](https://vortex21997.github.io/posts/ip-address-in-browser-site-not-found-host-header/) <sub>2026.11.20</sub>
+- [git pull --rebase가 &#39;You are not currently on a branch&#39;로 멈출 때: 분리된 HEAD 확인하기](https://vortex21997.github.io/posts/git-pull-not-currently-on-a-branch/) <sub>2026.11.20</sub>
 - [&lpar;user_id, status&rpar; 복합 인덱스가 status만 찾을 땐 SCAN이 되는 이유: 컬럼 순서](https://vortex21997.github.io/posts/sqlite-composite-index-column-order/) <sub>2026.11.19</sub>
 - [메모리 16GB인데 왜 사진을 더 못 넣나: RAM과 저장공간은 다른 부품이다](https://vortex21997.github.io/posts/ram-vs-storage-photos-wont-fit/) <sub>2026.11.19</sub>
-- [Codex가 AGENTS.md 뒷부분을 무시할 때: project_doc_max_bytes 32KiB 한도](https://vortex21997.github.io/posts/codex-agents-md-32kib-truncated/) <sub>2026.11.19</sub>
-- [&#39;한글&#39;은 2글자인데 파일은 7바이트인 이유: UTF-8에서 한글 한 글자가 3바이트가 되는 과정](https://vortex21997.github.io/posts/utf8-hangul-3-bytes-len/) <sub>2026.11.18</sub>
-- [파일을 삭제했는데 복구 프로그램은 왜 되살릴 수 있나: 지워진 건 &#39;목록&#39;이지 내용이 아니다](https://vortex21997.github.io/posts/deleted-file-still-recoverable/) <sub>2026.11.18</sub><!-- BLOG-POST-LIST:END -->
+- [Codex가 AGENTS.md 뒷부분을 무시할 때: project_doc_max_bytes 32KiB 한도](https://vortex21997.github.io/posts/codex-agents-md-32kib-truncated/) <sub>2026.11.19</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
