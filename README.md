@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [점수가 같은 사람의 순서가 안 바뀌는 이유: 파이썬 sorted는 안정 정렬이다](https://vortex21997.github.io/posts/python-sorted-stable-reverse-multikey/) <sub>2026.11.20</sub>
 - [주소창에 IP 주소를 직접 넣으면 사이트가 안 열리는 이유: 한 IP에 사이트가 여러 개 산다](https://vortex21997.github.io/posts/ip-address-in-browser-site-not-found-host-header/) <sub>2026.11.20</sub>
 - [git pull --rebase가 &#39;You are not currently on a branch&#39;로 멈출 때: 분리된 HEAD 확인하기](https://vortex21997.github.io/posts/git-pull-not-currently-on-a-branch/) <sub>2026.11.20</sub>
 - [&lpar;user_id, status&rpar; 복합 인덱스가 status만 찾을 땐 SCAN이 되는 이유: 컬럼 순서](https://vortex21997.github.io/posts/sqlite-composite-index-column-order/) <sub>2026.11.19</sub>
-- [메모리 16GB인데 왜 사진을 더 못 넣나: RAM과 저장공간은 다른 부품이다](https://vortex21997.github.io/posts/ram-vs-storage-photos-wont-fit/) <sub>2026.11.19</sub>
-- [Codex가 AGENTS.md 뒷부분을 무시할 때: project_doc_max_bytes 32KiB 한도](https://vortex21997.github.io/posts/codex-agents-md-32kib-truncated/) <sub>2026.11.19</sub><!-- BLOG-POST-LIST:END -->
+- [메모리 16GB인데 왜 사진을 더 못 넣나: RAM과 저장공간은 다른 부품이다](https://vortex21997.github.io/posts/ram-vs-storage-photos-wont-fit/) <sub>2026.11.19</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
