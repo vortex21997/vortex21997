@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Too many open files&#39;&lpar;EMFILE&rpar;는 파일 개수 문제가 아니라 프로세스당 fd 한도다: soft/hard 제한을 직접 보기](https://vortex21997.github.io/posts/emfile-too-many-open-files-soft-hard-limit/) <sub>2026.11.21</sub>
 - [report.txt와 Report.txt가 리눅스에서는 두 파일인데 윈도우에서는 한 파일인 이유](https://vortex21997.github.io/posts/windows-linux-filename-case-sensitive/) <sub>2026.11.21</sub>
 - [git이 &#39;detected dubious ownership in repository&#39;로 멈출 때: safe.directory는 저장소 안에 못 적는다](https://vortex21997.github.io/posts/git-dubious-ownership-safe-directory/) <sub>2026.11.21</sub>
 - [점수가 같은 사람의 순서가 안 바뀌는 이유: 파이썬 sorted는 안정 정렬이다](https://vortex21997.github.io/posts/python-sorted-stable-reverse-multikey/) <sub>2026.11.20</sub>
-- [주소창에 IP 주소를 직접 넣으면 사이트가 안 열리는 이유: 한 IP에 사이트가 여러 개 산다](https://vortex21997.github.io/posts/ip-address-in-browser-site-not-found-host-header/) <sub>2026.11.20</sub>
-- [git pull --rebase가 &#39;You are not currently on a branch&#39;로 멈출 때: 분리된 HEAD 확인하기](https://vortex21997.github.io/posts/git-pull-not-currently-on-a-branch/) <sub>2026.11.20</sub><!-- BLOG-POST-LIST:END -->
+- [주소창에 IP 주소를 직접 넣으면 사이트가 안 열리는 이유: 한 IP에 사이트가 여러 개 산다](https://vortex21997.github.io/posts/ip-address-in-browser-site-not-found-host-header/) <sub>2026.11.20</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
