@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [같은 2차원 배열 합계가 읽는 순서만 바꿨는데 12배 느려지는 이유: 캐시 라인을 재 보기](https://vortex21997.github.io/posts/cache-row-vs-column-order-array/) <sub>2026.11.23</sub>
 - [다운로드 페이지에 적힌 긴 SHA-256 값은 뭘 확인하라는 걸까: 1비트만 달라져도 값이 통째로 바뀐다](https://vortex21997.github.io/posts/file-checksum-sha256-verify-download/) <sub>2026.11.23</sub>
 - [Claude Code에서 &#39;다시 묻지 않기&#39;를 눌렀는데 또 물을 때: deny → ask → allow 순서](https://vortex21997.github.io/posts/claude-allow-rule-still-prompts-deny-ask-order/) <sub>2026.11.23</sub>
 - [keep-alive로 연결을 재사용했더니 요청당 44ms로 느려질 때: Nagle 알고리즘과 지연 ACK](https://vortex21997.github.io/posts/keepalive-slower-nagle-delayed-ack/) <sub>2026.11.22</sub>
-- [복사가 끝났다고 떴는데 USB를 &#39;안전하게 제거&#39;해야 하는 이유: 파일은 먼저 메모리에 써진다](https://vortex21997.github.io/posts/usb-safely-remove-write-cache/) <sub>2026.11.22</sub>
-- [빈 사흘 뒤 일주일: 21칸 중 21칸이 찼고, 아침 슬롯은 요일표대로 돌았다](https://vortex21997.github.io/posts/week-after-gap-all-slots-filled/) <sub>2026.11.22</sub><!-- BLOG-POST-LIST:END -->
+- [복사가 끝났다고 떴는데 USB를 &#39;안전하게 제거&#39;해야 하는 이유: 파일은 먼저 메모리에 써진다](https://vortex21997.github.io/posts/usb-safely-remove-write-cache/) <sub>2026.11.22</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
