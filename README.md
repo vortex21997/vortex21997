@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NOT IN 서브쿼리가 결과를 0건으로 돌려줄 때: 목록에 NULL 한 개가 섞여 있다](https://vortex21997.github.io/posts/sql-not-in-subquery-null-returns-no-rows/) <sub>2026.11.24</sub>
 - [파일을 복사하면 &#39;수정한 날짜&#39;가 복사한 시각으로 바뀌는 이유: 복사본은 새 파일이다](https://vortex21997.github.io/posts/file-copy-modified-date-changes-cp-preserve/) <sub>2026.11.24</sub>
 - [배포했는데 내 브라우저에서만 옛날 화면일 때: Chirpy PWA 서비스 워커와 &#39;새 콘텐츠가 있습니다&#39;](https://vortex21997.github.io/posts/chirpy-pwa-service-worker-stale-page-update-toast/) <sub>2026.11.24</sub>
 - [같은 2차원 배열 합계가 읽는 순서만 바꿨는데 12배 느려지는 이유: 캐시 라인을 재 보기](https://vortex21997.github.io/posts/cache-row-vs-column-order-array/) <sub>2026.11.23</sub>
-- [다운로드 페이지에 적힌 긴 SHA-256 값은 뭘 확인하라는 걸까: 1비트만 달라져도 값이 통째로 바뀐다](https://vortex21997.github.io/posts/file-checksum-sha256-verify-download/) <sub>2026.11.23</sub>
-- [Claude Code에서 &#39;다시 묻지 않기&#39;를 눌렀는데 또 물을 때: deny → ask → allow 순서](https://vortex21997.github.io/posts/claude-allow-rule-still-prompts-deny-ask-order/) <sub>2026.11.23</sub><!-- BLOG-POST-LIST:END -->
+- [다운로드 페이지에 적힌 긴 SHA-256 값은 뭘 확인하라는 걸까: 1비트만 달라져도 값이 통째로 바뀐다](https://vortex21997.github.io/posts/file-checksum-sha256-verify-download/) <sub>2026.11.23</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
