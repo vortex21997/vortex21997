@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [동영상 1분이 몇 MB인지는 무엇이 정하나: 해상도가 아니라 비트레이트 × 길이](https://vortex21997.github.io/posts/video-file-size-bitrate-times-duration/) <sub>2026.11.25</sub>
+- [Actions 탭에 &#39;Run workflow&#39; 버튼이 없을 때: workflow_dispatch와 기본 브랜치 확인](https://vortex21997.github.io/posts/actions-run-workflow-button-missing-workflow-dispatch/) <sub>2026.11.25</sub>
 - [NOT IN 서브쿼리가 결과를 0건으로 돌려줄 때: 목록에 NULL 한 개가 섞여 있다](https://vortex21997.github.io/posts/sql-not-in-subquery-null-returns-no-rows/) <sub>2026.11.24</sub>
 - [파일을 복사하면 &#39;수정한 날짜&#39;가 복사한 시각으로 바뀌는 이유: 복사본은 새 파일이다](https://vortex21997.github.io/posts/file-copy-modified-date-changes-cp-preserve/) <sub>2026.11.24</sub>
-- [배포했는데 내 브라우저에서만 옛날 화면일 때: Chirpy PWA 서비스 워커와 &#39;새 콘텐츠가 있습니다&#39;](https://vortex21997.github.io/posts/chirpy-pwa-service-worker-stale-page-update-toast/) <sub>2026.11.24</sub>
-- [같은 2차원 배열 합계가 읽는 순서만 바꿨는데 12배 느려지는 이유: 캐시 라인을 재 보기](https://vortex21997.github.io/posts/cache-row-vs-column-order-array/) <sub>2026.11.23</sub>
-- [다운로드 페이지에 적힌 긴 SHA-256 값은 뭘 확인하라는 걸까: 1비트만 달라져도 값이 통째로 바뀐다](https://vortex21997.github.io/posts/file-checksum-sha256-verify-download/) <sub>2026.11.23</sub><!-- BLOG-POST-LIST:END -->
+- [배포했는데 내 브라우저에서만 옛날 화면일 때: Chirpy PWA 서비스 워커와 &#39;새 콘텐츠가 있습니다&#39;](https://vortex21997.github.io/posts/chirpy-pwa-service-worker-stale-page-update-toast/) <sub>2026.11.24</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
