@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [http 사이트에 로그인하면 정말 비밀번호가 보일까: 중간에서 본 요청과 https의 차이](https://vortex21997.github.io/posts/http-password-visible-to-others-plaintext/) <sub>2026.11.26</sub>
+- [GEMINI.md의 @import가 &#39;Path traversal attempt&#39;로 실패할 때: .git 밖 파일은 못 가져온다](https://vortex21997.github.io/posts/gemini-md-import-path-traversal-attempt/) <sub>2026.11.26</sub>
 - [파이프 뒤에 head를 붙였더니 종료 코드가 141: SIGPIPE와 Broken pipe](https://vortex21997.github.io/posts/sigpipe-exit-141-pipe-head/) <sub>2026.11.25</sub>
 - [동영상 1분이 몇 MB인지는 무엇이 정하나: 해상도가 아니라 비트레이트 × 길이](https://vortex21997.github.io/posts/video-file-size-bitrate-times-duration/) <sub>2026.11.25</sub>
-- [Actions 탭에 &#39;Run workflow&#39; 버튼이 없을 때: workflow_dispatch와 기본 브랜치 확인](https://vortex21997.github.io/posts/actions-run-workflow-button-missing-workflow-dispatch/) <sub>2026.11.25</sub>
-- [NOT IN 서브쿼리가 결과를 0건으로 돌려줄 때: 목록에 NULL 한 개가 섞여 있다](https://vortex21997.github.io/posts/sql-not-in-subquery-null-returns-no-rows/) <sub>2026.11.24</sub>
-- [파일을 복사하면 &#39;수정한 날짜&#39;가 복사한 시각으로 바뀌는 이유: 복사본은 새 파일이다](https://vortex21997.github.io/posts/file-copy-modified-date-changes-cp-preserve/) <sub>2026.11.24</sub><!-- BLOG-POST-LIST:END -->
+- [Actions 탭에 &#39;Run workflow&#39; 버튼이 없을 때: workflow_dispatch와 기본 브랜치 확인](https://vortex21997.github.io/posts/actions-run-workflow-button-missing-workflow-dispatch/) <sub>2026.11.25</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
