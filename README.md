@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [같은 100MB인데 작은 파일 1만 개는 복사가 더 오래 걸리는 이유](https://vortex21997.github.io/posts/many-small-files-copy-slower-than-one-big-file/) <sub>2026.11.27</sub>
+- [하루 3편을 올리는데 feed.xml에는 5편만 있을 때: Chirpy 피드의 limit: 5](https://vortex21997.github.io/posts/chirpy-feed-xml-only-5-entries/) <sub>2026.11.27</sub>
 - [bisect_left가 리스트에 있는 값을 못 찾을 때: 정렬 안 된 리스트에는 에러 없이 틀린 인덱스를 돌려준다](https://vortex21997.github.io/posts/python-bisect-unsorted-list-wrong-index/) <sub>2026.11.26</sub>
 - [http 사이트에 로그인하면 정말 비밀번호가 보일까: 중간에서 본 요청과 https의 차이](https://vortex21997.github.io/posts/http-password-visible-to-others-plaintext/) <sub>2026.11.26</sub>
-- [GEMINI.md의 @import가 &#39;Path traversal attempt&#39;로 실패할 때: .git 밖 파일은 못 가져온다](https://vortex21997.github.io/posts/gemini-md-import-path-traversal-attempt/) <sub>2026.11.26</sub>
-- [파이프 뒤에 head를 붙였더니 종료 코드가 141: SIGPIPE와 Broken pipe](https://vortex21997.github.io/posts/sigpipe-exit-141-pipe-head/) <sub>2026.11.25</sub>
-- [동영상 1분이 몇 MB인지는 무엇이 정하나: 해상도가 아니라 비트레이트 × 길이](https://vortex21997.github.io/posts/video-file-size-bitrate-times-duration/) <sub>2026.11.25</sub><!-- BLOG-POST-LIST:END -->
+- [GEMINI.md의 @import가 &#39;Path traversal attempt&#39;로 실패할 때: .git 밖 파일은 못 가져온다](https://vortex21997.github.io/posts/gemini-md-import-path-traversal-attempt/) <sub>2026.11.26</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
