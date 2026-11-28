@@ -45,11 +45,11 @@ location: Korea
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [램을 4GB 꽂았는데 3GB대만 보이는 이유: 32비트가 셀 수 있는 주소는 4GiB까지다](https://vortex21997.github.io/posts/32bit-windows-4gb-ram-only-3gb-usable/) <sub>2026.11.28</sub>
+- [.gitignore에 넣었는데 git status에 계속 뜰 때: 이미 추적 중인 파일은 무시되지 않는다](https://vortex21997.github.io/posts/gitignore-already-tracked-file-still-in-status/) <sub>2026.11.28</sub>
 - [curl &lpar;60&rpar; 에러가 두 가지 메시지로 나올 때: 발급자를 모르는 것과 호스트 이름이 안 맞는 것](https://vortex21997.github.io/posts/curl-error-60-issuer-vs-hostname-mismatch/) <sub>2026.11.27</sub>
 - [같은 100MB인데 작은 파일 1만 개는 복사가 더 오래 걸리는 이유](https://vortex21997.github.io/posts/many-small-files-copy-slower-than-one-big-file/) <sub>2026.11.27</sub>
-- [하루 3편을 올리는데 feed.xml에는 5편만 있을 때: Chirpy 피드의 limit: 5](https://vortex21997.github.io/posts/chirpy-feed-xml-only-5-entries/) <sub>2026.11.27</sub>
-- [bisect_left가 리스트에 있는 값을 못 찾을 때: 정렬 안 된 리스트에는 에러 없이 틀린 인덱스를 돌려준다](https://vortex21997.github.io/posts/python-bisect-unsorted-list-wrong-index/) <sub>2026.11.26</sub>
-- [http 사이트에 로그인하면 정말 비밀번호가 보일까: 중간에서 본 요청과 https의 차이](https://vortex21997.github.io/posts/http-password-visible-to-others-plaintext/) <sub>2026.11.26</sub><!-- BLOG-POST-LIST:END -->
+- [하루 3편을 올리는데 feed.xml에는 5편만 있을 때: Chirpy 피드의 limit: 5](https://vortex21997.github.io/posts/chirpy-feed-xml-only-5-entries/) <sub>2026.11.27</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그 전체 글 보기](https://vortex21997.github.io)
 
